@@ -3,6 +3,7 @@ public class Main {
 
         Test first = new Test();
        first.wypisz();
+
     }
 }
 
